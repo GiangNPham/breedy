@@ -9,3 +9,10 @@ cd dog-breed-gallery
 npm install
 npm start
 ```
+
+## Technology
+
+- React
+- Ant Design
+- TailwindCSS
+- Axios
