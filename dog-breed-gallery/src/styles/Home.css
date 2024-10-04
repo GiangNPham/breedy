@@ -1,0 +1,25 @@
+.home-cascader {
+  width: 35rem;
+  min-height: 2rem;
+}
+
+@media only screen and (max-width: 700px) {
+  .home-cascader {
+    width: 21rem;
+  }
+}
+
+.home-title {
+  color: #2e2e2e;
+}
+
+.home-cascader .ant-select-selector {
+  background-color: #be8cb1 !important;
+  border-color: black !important;
+  color: black;
+  font-family: 'Courier Prime', monospace !important;
+}
+
+.ant-card-head-title {
+  font-family: 'Courier Prime', monospace !important;
+}

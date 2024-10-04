@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: rgb(231, 129, 130);
+  background: radial-gradient(circle, #e78182 0%, #9198e5 90%);
+  color: #222;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  font-family: 'Courier Prime', monospace;
+}
